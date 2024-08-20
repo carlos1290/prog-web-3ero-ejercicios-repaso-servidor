@@ -1,0 +1,11 @@
+1. Puedes ver un archivo package.json en esta carpeta con "express" listado en las dependencias.
+2. Abre una terminal y ejecuta "npm install" para instalar las dependencias.
+3. Puedes ver un archivo index.js en esta carpeta.
+4. Puedes ver dentro de index.js un servidor express que escucha en el puerto 3001.
+5. Ejecuta en terminal "node index.js" para iniciar el servidor.
+6. Podrás ver que ningun mensaje aparece en terminal.
+7. Puedes usar `Ctrl + C` para detener el servidor.
+8. Agrega un mensaje adentro del app.listen que diga "Servidor escuchando en el puerto 3001".
+9. Ejecuta en terminal "node index.js" para iniciar el servidor nuevamente.
+10. Podrás ver un mensaje de "Servidor escuchando en el puerto 3001" en terminal.
+11. ¡Listo! Has terminado el ejercicio. Puedes pasar al siguiente.

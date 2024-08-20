@@ -1,0 +1,13 @@
+1. Puedes ver un archivo package.json en esta carpeta con "express" listado en las dependencias.
+2. Abre una terminal y ejecuta "npm install" para instalar las dependencias.
+3. Puedes ver un archivo index.js en esta carpeta.
+4. Puedes ver dentro de index.js un servidor express que escucha en el puerto 3000.
+5. Verás que el servidor está escuchando en el puerto 3000.
+6. Ejecuta en terminal "node index.js" para iniciar el servidor.
+7. Podrás ver un mensaje de "Hola Mundo" en tu navegador si navegas a "http://localhost:3000".
+8. Puedes usar `Ctrl + C` para detener el servidor.
+9. Cambia el puerto en el que el servidor escucha a 3001.
+10. Ejecuta en terminal "node index.js" para iniciar el servidor nuevamente.
+11. Si vas a "http://localhost:3000" no deberías ver nada.
+12. Si vas a "http://localhost:3001" deberías ver un mensaje de "Hola Mundo".
+13. ¡Listo! Has terminado el ejercicio. Puedes pasar al siguiente.

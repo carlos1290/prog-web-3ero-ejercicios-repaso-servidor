@@ -1,0 +1,15 @@
+1. Puedes ver un archivo package.json en esta carpeta con "express" listado en las dependencias.
+2. Abre una terminal y ejecuta "npm install" para instalar las dependencias.
+3. Puedes ver un archivo index.js en esta carpeta.
+4. Puedes ver dentro de index.js un servidor express que escucha en el puerto 3000.
+5. Verás una ruta incompleta que responde a una petición GET en "/:nombre".
+6. La ruta debería responder con un mensaje que diga "Tu nombre es " seguido del nombre que se haya pasado en la URL.
+7. Completa la ruta para que funcione correctamente.
+Ejemplo:
+Si se hace una petición GET a "/juan", la respuesta debería ser "Tu nombre es juan".
+Si se hace una petición GET a "/maria", la respuesta debería ser "Tu nombre es maria".
+8. Ejecuta el archivo index.js con node para iniciar el servidor.
+9. Abre tu navegador y navega a "http://localhost:3000/{tu-nombre}" para probar la ruta.
+10. Si todo ha ido bien, deberías ver un mensaje que diga "Tu nombre es {tu-nombre}".
+11. Puedes usar `Ctrl + C` para detener el servidor.
+12. ¡Listo! Has terminado el ejercicio. Puedes pasar al siguiente.

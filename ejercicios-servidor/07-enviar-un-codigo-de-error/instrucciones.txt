@@ -1,0 +1,14 @@
+1. Puedes ver un archivo package.json en esta carpeta con "express" listado en las dependencias.
+2. Abre una terminal y ejecuta "npm install" para instalar las dependencias.
+3. Puedes ver un archivo index.js en esta carpeta.
+4. Puedes ver dentro de index.js un servidor express que escucha en el puerto 3001.
+5. Ejecuta en terminal "node index.js" para iniciar el servidor.
+6. Podrás ver un mensaje de "Hola Mundo" en tu navegador si navegas a "http://localhost:3001".
+7. El servidor tiene agregados instrucciones console.log para ver el código que tiene la respuesta.
+8. En tu terminal verás un mensaje cada vez que hagas una petición GET y el código de respuesta para esa petición.
+9. Verás que sin decir nada al servidor, siempre la respuesta tiene código 200.
+10. Completa el código de la ruta /error para que la respuesta tenga código 404.
+11. Reinicia el servidor y haz una petición GET a la ruta /error.
+12. Verás que el código de respuesta es 404.
+13. Puedes comprobarlo también desde tu navegador accediendo a "http://localhost:3001/error" y viendo el código de respuesta en las herramientas de desarrollador > pestaña Red.
+13. ¡Listo! Has terminado el ejercicio. Puedes pasar al siguiente.
