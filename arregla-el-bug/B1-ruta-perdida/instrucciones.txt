@@ -1,0 +1,11 @@
+1. Puedes ver un archivo package.json en esta carpeta con "express" listado en las dependencias.
+2. Abre una terminal y ejecuta "npm install" para instalar las dependencias.
+3. Puedes ver un archivo index.js en esta carpeta.
+4. Puedes ver dentro de index.js un servidor express que escucha en el puerto 3001.
+5. Ejecuta en terminal "node index.js" para iniciar el servidor.
+6. Intenta acceder a la ruta "http://localhost:3001/usuario/perfil" en tu navegador.
+7. Debería aparecer el mensaje de "Bienvenido a tu perfil".
+8. Si ves otra cosa, algo está mal.
+9. ¡Encuentra el error!
+
+Condición: No se permiten borrar rutas.
