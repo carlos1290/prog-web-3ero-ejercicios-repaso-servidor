@@ -1,0 +1,19 @@
+1. Puedes ver un archivo package.json en esta carpeta con "express" listado en las dependencias.
+2. Abre una terminal y ejecuta "npm install" para instalar las dependencias.
+3. Crea un archivo con el nombre "index.js" y agrega el siguiente código:
+```javascript
+const express = require('express');
+const app = express();
+
+app.get('/', (req, res) => {
+  res.send("");
+});
+
+app.listen(3000);
+```
+4. Ejecuta en terminal "node index.js" para iniciar el servidor.
+5. Abre tu navegador y ve a "http://localhost:3000".
+6. Deberías ver una página en blanco.
+7. Modifica el código para que la ruta "/" devuelva un mensaje de "Hola Mundo".
+8. Refresca tu navegador y deberías ver el mensaje "Hola Mundo".
+9. ¡Listo! Has terminado el ejercicio. Puedes pasar al siguiente.

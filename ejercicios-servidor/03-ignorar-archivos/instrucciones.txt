@@ -1,0 +1,9 @@
+1. Puedes ver un archivo package.json en esta carpeta con "express" listado en las dependencias.
+2. Abre una terminal y ejecuta "npm install" para instalar las dependencias.
+3. Una vez que hayas completado la instalación, aparecerá la carpeta "node_modules".
+4. Ejecuta en terminal "git status" para ver los archivos nuevos rastreados por Git.
+5. En la lista debe aparecer "node_modules" en rojo.
+6. Crea un archivo con el nombre .gitignore y añade "node_modules" en una línea.
+7. Verás que la carpeta "node_modules" aparece gris porque va a ser ignorada por Git.
+8. Ejecuta "git status" de nuevo y verás que "node_modules" ya no aparece en la lista.
+9. ¡Listo! Has terminado el ejercicio. Puedes pasar al siguiente.

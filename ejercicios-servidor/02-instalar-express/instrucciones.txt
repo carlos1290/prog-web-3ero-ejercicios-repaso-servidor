@@ -1,0 +1,9 @@
+1. Puedes ver un archivo package.json en esta carpeta.
+2. Abre la terminal.
+3. Navega hasta esta carpeta.
+4. Ejecuta el siguiente comando para instalar Express: npm install express
+5. Una vez que hayas completado la instalación, aparecerán dos nuevos elementos en la carpeta de tu ejercicio:
+  - un archivo package-lock.json que contiene información sobre las versiones específicas de los paquetes instalados
+  - una carpeta node_modules que contiene los paquetes instalados
+6. Al abrir el archivo package.json, verás que ahora contiene una nueva dependencia llamada "express".
+7. ¡Listo! Has terminado el ejercicio. Puedes pasar al siguiente.

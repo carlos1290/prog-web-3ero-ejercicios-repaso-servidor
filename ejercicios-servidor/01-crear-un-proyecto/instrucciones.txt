@@ -1,0 +1,7 @@
+1. Abre la terminal.
+2. Navega hasta esta carpeta para crear el proyecto.
+3. Ejecuta el siguiente comando para crear un nuevo directorio para tu proyecto: npm init
+4. Esto te guiará a través de un proceso interactivo para configurar tu proyecto npm. Puedes presionar Enter para aceptar los valores predeterminados.
+5. Una vez que hayas completado el proceso de inicialización, aparecerá un archivo package.json en la carpeta de tu ejercicio.
+6. Este archivo contiene el nombre del proyecto y los paquetes instalados (o dependencias) de tu proyecto.
+7. ¡Listo! Has terminado el ejercicio. Puedes pasar al siguiente.

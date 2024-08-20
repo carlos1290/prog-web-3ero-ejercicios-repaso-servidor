@@ -1,0 +1,14 @@
+# Ignore dependencies files
+/node_modules/
+/dist/
+*.lock
+
+# Ignore Prisma generated files
+/prisma/.env
+/prisma/.prisma/
+/prisma/migrations/
+/prisma/schema.prisma
+/prisma/client/
+
+# Ignore other project-specific files
+.env
