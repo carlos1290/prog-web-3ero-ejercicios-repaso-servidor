@@ -1,5 +1,5 @@
 {
-  "name": "03-ignorar-archivos",
+  "name": "06-cambiar-de-puerto-el-servidor",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
