@@ -1,5 +1,5 @@
 1. Puedes ver un archivo package.json en esta carpeta.
-2. Abre la terminal.
+2. Abre la terminal. 
 3. Navega hasta esta carpeta.
 4. Ejecuta el siguiente comando para instalar Express: npm install express
 5. Una vez que hayas completado la instalación, aparecerán dos nuevos elementos en la carpeta de tu ejercicio:
